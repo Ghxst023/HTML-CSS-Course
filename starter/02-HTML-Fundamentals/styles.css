@@ -1,0 +1,55 @@
+body {
+  font-family: sans-serif;
+  border: solid 10px red;
+  border-radius: 15px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: darkgray;
+}
+
+.title_background {
+  background-color: #f7f7f7;
+}
+
+.price_bold {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+a:link {
+  color: #1098ad;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: orangered;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  background-color: black;
+  font-style: italic;
+}
+
+.bullet_style {
+  list-style: square;
+}
+
+button {
+  color: white;
+  background-color: black;
+  width: 200px;
+  height: 400%;
+}
+button:hover {
+  color: black;
+  background-color: white;
+}
